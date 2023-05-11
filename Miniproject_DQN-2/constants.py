@@ -1,0 +1,12 @@
+
+class Constants:
+
+
+    SCALE = 100
+
+    #ACTIONS
+    ACTION_NULL = 0
+    ACTION_CONFINE = 1
+    ACTION_ISOLATE = 2
+    ACTION_HOSPITAL = 3
+    ACTION_VACCINATE = 4
